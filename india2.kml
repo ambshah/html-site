@@ -1,0 +1,3178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Untitled map</name>
+    <description/>
+    <Style id="icon-1684-FFD600-normal">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1684-FFD600-highlight">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1684-FFD600">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1684-FFD600-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1684-FFD600-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1685-3949AB-normal">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1685-3949AB-highlight">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1685-3949AB">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1685-3949AB-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1685-3949AB-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1884-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1884-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1884-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1884-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1884-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Sample Hot spots Mumbai.xlsx</name>
+      <Placemark>
+        <name>Junction</name>
+        <description><![CDATA[Category Group: Junction<br>Address: Babulnath<br>Latitude: 18.959099<br>Longitude: 72.809888<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1884-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Junction</value>
+          </Data>
+          <Data name="Address">
+            <value>Babulnath</value>
+          </Data>
+          <Data name="Latitude">
+            <value>18.959099</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.809888</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.809888,18.959099,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Junction</name>
+        <description><![CDATA[Category Group: Junction<br>Address: Cadburry Junction<br>Latitude: 18.976502<br>Longitude: 72.808976<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1884-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Junction</value>
+          </Data>
+          <Data name="Address">
+            <value>Cadburry Junction</value>
+          </Data>
+          <Data name="Latitude">
+            <value>18.976502</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.808976</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.808976,18.976502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Junction</name>
+        <description><![CDATA[Category Group: Junction<br>Address: Haji Ali Junction<br>Latitude: 18.978075<br>Longitude: 72.811326<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1884-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Junction</value>
+          </Data>
+          <Data name="Address">
+            <value>Haji Ali Junction</value>
+          </Data>
+          <Data name="Latitude">
+            <value>18.978075</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.811326</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.811326,18.978075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Junction</name>
+        <description><![CDATA[Category Group: Junction<br>Address: Worli Naka<br>Latitude: 18.998692<br>Longitude: 72.81742<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1884-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Junction</value>
+          </Data>
+          <Data name="Address">
+            <value>Worli Naka</value>
+          </Data>
+          <Data name="Latitude">
+            <value>18.998692</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.81742</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.81742,18.998692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Junction</name>
+        <description><![CDATA[Category Group: Junction<br>Address: Siddhivinyak<br>Latitude: 19.016423<br>Longitude: 72.829224<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1884-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Junction</value>
+          </Data>
+          <Data name="Address">
+            <value>Siddhivinyak</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.016423</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.829224</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.829224,19.016423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Junction</name>
+        <description><![CDATA[Category Group: Junction<br>Address: Mahim Causeway<br>Latitude: 19.049726<br>Longitude: 72.838239<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1884-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Junction</value>
+          </Data>
+          <Data name="Address">
+            <value>Mahim Causeway</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.049726</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.838239</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.838239,19.049726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Junction</name>
+        <description><![CDATA[Category Group: Junction<br>Address: Dadar Senabhavan<br>Latitude: 19.025088<br>Longitude: 72.840522<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1884-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Junction</value>
+          </Data>
+          <Data name="Address">
+            <value>Dadar Senabhavan</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.025088</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.840522</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.840522,19.025088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Junction</name>
+        <description><![CDATA[Category Group: Junction<br>Address: Bandra Turnner Road<br>Latitude: 19.059621<br>Longitude: 72.836858<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1884-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Junction</value>
+          </Data>
+          <Data name="Address">
+            <value>Bandra Turnner Road</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.059621</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.836858</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.836858,19.059621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Junction</name>
+        <description><![CDATA[Category Group: Junction<br>Address: Juhu Linking Road<br>Latitude: 19.084545<br>Longitude: 72.834578<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1884-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Junction</value>
+          </Data>
+          <Data name="Address">
+            <value>Juhu Linking Road</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.084545</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.834578</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.834578,19.084545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Junction</name>
+        <description><![CDATA[Category Group: Junction<br>Address: Jvpd<br>Latitude: 19.116143<br>Longitude: 72.829844<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1884-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Junction</value>
+          </Data>
+          <Data name="Address">
+            <value>Jvpd</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.116143</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.829844</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.829844,19.116143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Junction</name>
+        <description><![CDATA[Category Group: Junction<br>Address: Inorbit Malad Junction<br>Latitude: 19.1739<br>Longitude: 72.83664<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1884-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Junction</value>
+          </Data>
+          <Data name="Address">
+            <value>Inorbit Malad Junction</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.1739</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.83664</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.83664,19.1739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Junction</name>
+        <description><![CDATA[Category Group: Junction<br>Address: Kalanagar<br>Latitude: 19.054152<br>Longitude: 72.8465<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1884-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Junction</value>
+          </Data>
+          <Data name="Address">
+            <value>Kalanagar</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.054152</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.8465</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.8465,19.054152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Junction</name>
+        <description><![CDATA[Category Group: Junction<br>Address: Vakola<br>Latitude: 19.08039<br>Longitude: 72.84702<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1884-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Junction</value>
+          </Data>
+          <Data name="Address">
+            <value>Vakola</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.08039</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.84702</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.84702,19.08039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Junction</name>
+        <description><![CDATA[Category Group: Junction<br>Address: Chakala<br>Latitude: 19.113294<br>Longitude: 72.854863<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1884-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Junction</value>
+          </Data>
+          <Data name="Address">
+            <value>Chakala</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.113294</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.854863</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.854863,19.113294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Junction</name>
+        <description><![CDATA[Category Group: Junction<br>Address: Jvlr<br>Latitude: 19.140648<br>Longitude: 72.854986<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1884-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Junction</value>
+          </Data>
+          <Data name="Address">
+            <value>Jvlr</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.140648</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.854986</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.854986,19.140648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Junction</name>
+        <description><![CDATA[Category Group: Junction<br>Address: Flora Fountan<br>Latitude: 18.932753<br>Longitude: 72.831308<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1884-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Junction</value>
+          </Data>
+          <Data name="Address">
+            <value>Flora Fountan</value>
+          </Data>
+          <Data name="Latitude">
+            <value>18.932753</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.831308</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.831308,18.932753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Junction</name>
+        <description><![CDATA[Category Group: Junction<br>Address: Byculla<br>Latitude: 18.968172<br>Longitude: 72.832768<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1884-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Junction</value>
+          </Data>
+          <Data name="Address">
+            <value>Byculla</value>
+          </Data>
+          <Data name="Latitude">
+            <value>18.968172</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.832768</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.832768,18.968172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Junction</name>
+        <description><![CDATA[Category Group: Junction<br>Address: Dadar Tt<br>Latitude: 19.017864<br>Longitude: 72.847712<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1884-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Junction</value>
+          </Data>
+          <Data name="Address">
+            <value>Dadar Tt</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.017864</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.847712</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.847712,19.017864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Junction</name>
+        <description><![CDATA[Category Group: Junction<br>Address: Sion Circle<br>Latitude: 19.042731<br>Longitude: 72.863964<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1884-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Junction</value>
+          </Data>
+          <Data name="Address">
+            <value>Sion Circle</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.042731</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.863964</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.863964,19.042731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Junction</name>
+        <description><![CDATA[Category Group: Junction<br>Address: Chembur Rcf<br>Latitude: 19.053118<br>Longitude: 72.881216<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1884-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Junction</value>
+          </Data>
+          <Data name="Address">
+            <value>Chembur Rcf</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.053118</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.881216</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.881216,19.053118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Junction</name>
+        <description><![CDATA[Category Group: Junction<br>Address: Mulund Airoli<br>Latitude: 19.154705<br>Longitude: 72.956758<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1884-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Junction</value>
+          </Data>
+          <Data name="Address">
+            <value>Mulund Airoli</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.154705</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.956758</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.956758,19.154705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Junction</name>
+        <description><![CDATA[Category Group: Junction<br>Address: Thane Teenhath Naka<br>Latitude: 19.188456<br>Longitude: 72.963557<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1884-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Junction</value>
+          </Data>
+          <Data name="Address">
+            <value>Thane Teenhath Naka</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.188456</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.963557</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.963557,19.188456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Junction</name>
+        <description><![CDATA[Category Group: Junction<br>Address: Thane Majiwada<br>Latitude: 19.212494<br>Longitude: 72.977325<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1884-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Junction</value>
+          </Data>
+          <Data name="Address">
+            <value>Thane Majiwada</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.212494</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.977325</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.977325,19.212494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Junction</name>
+        <description><![CDATA[Category Group: Junction<br>Address: Sector 17 Vashi<br>Latitude: 19.068917<br>Longitude: 72.997353<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1884-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Junction</value>
+          </Data>
+          <Data name="Address">
+            <value>Sector 17 Vashi</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.068917</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.997353</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.997353,19.068917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Junction</name>
+        <description><![CDATA[Category Group: Junction<br>Address: Andheri Sakinaka<br>Latitude: 19.104241<br>Longitude: 72.886787<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1884-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Junction</value>
+          </Data>
+          <Data name="Address">
+            <value>Andheri Sakinaka</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.104241</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.886787</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.886787,19.104241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Atria Millenium Mall<br>Latitude: 19.005939<br>Longitude: 72.818169<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Atria Millenium Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.005939</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.818169</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.818169,19.005939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Bayside Mall<br>Latitude: 18.976194<br>Longitude: 72.812646<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Bayside Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>18.976194</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.812646</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.812646,18.976194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Centurion<br>Latitude: 19.024841<br>Longitude: 73.022122<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Centurion</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.024841</value>
+          </Data>
+          <Data name="Longitude">
+            <value>73.022122</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            73.022122,19.024841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Citi Mall<br>Latitude: 19.139042<br>Longitude: 72.831403<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Citi Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.139042</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.831403</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.831403,19.139042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: City Center Mall<br>Latitude: 19.084239<br>Longitude: 73.007211<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>City Center Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.084239</value>
+          </Data>
+          <Data name="Longitude">
+            <value>73.007211</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            73.007211,19.084239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: City Mall<br>Latitude: 19.059992<br>Longitude: 72.900561<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>City Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.059992</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.900561</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.900561,19.059992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Cross Road II<br>Latitude: 18.926531<br>Longitude: 72.82289<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Cross Road II</value>
+          </Data>
+          <Data name="Latitude">
+            <value>18.926531</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.82289</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.82289,18.926531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Dreams the Mall<br>Latitude: 19.146251<br>Longitude: 72.936487<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Dreams the Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.146251</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.936487</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.936487,19.146251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Dynamix Mall<br>Latitude: 19.11472<br>Longitude: 72.827404<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Dynamix Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.11472</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.827404</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.827404,19.11472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Eternity Mall<br>Latitude: 19.187213<br>Longitude: 72.962896<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Eternity Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.187213</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.962896</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.962896,19.187213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Evershine Mall<br>Latitude: 19.179001<br>Longitude: 72.836108<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Evershine Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.179001</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.836108</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.836108,19.179001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Fun Republic<br>Latitude: 19.135087<br>Longitude: 72.834021<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Fun Republic</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.135087</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.834021</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.834021,19.135087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: G7 Mall<br>Latitude: 19.131088<br>Longitude: 72.819856<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>G7 Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.131088</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.819856</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.819856,19.131088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Globus Mall<br>Latitude: 19.056106<br>Longitude: 72.833927<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Globus Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.056106</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.833927</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.833927,19.056106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Glomax mall<br>Latitude: 19.030675<br>Longitude: 73.06549<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Glomax mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.030675</value>
+          </Data>
+          <Data name="Longitude">
+            <value>73.06549</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            73.06549,19.030675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Haiko Mall<br>Latitude: 19.118377<br>Longitude: 72.91129<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Haiko Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.118377</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.91129</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.91129,19.118377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Heera Punna<br>Latitude: 18.977718<br>Longitude: 72.811026<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Heera Punna</value>
+          </Data>
+          <Data name="Latitude">
+            <value>18.977718</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.811026</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.811026,18.977718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Hi Life Mall<br>Latitude: 19.083035<br>Longitude: 72.840466<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Hi Life Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.083035</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.840466</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.840466,19.083035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: High Street Phoenix<br>Latitude: 19.002556<br>Longitude: 72.824985<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>High Street Phoenix</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.002556</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.824985</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.824985,19.002556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Huma Mall<br>Latitude: 19.128754<br>Longitude: 72.926061<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Huma Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.128754</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.926061</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.926061,19.128754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Hypercity Mall<br>Latitude: 19.171272<br>Longitude: 72.835397<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Hypercity Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.171272</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.835397</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.835397,19.171272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Infinity Mall<br>Latitude: 19.141327<br>Longitude: 72.830926<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Infinity Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.141327</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.830926</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.830926,19.141327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Infinity Mall<br>Latitude: 19.18485<br>Longitude: 72.834112<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Infinity Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.18485</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.834112</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.834112,19.18485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Inorbit Mall<br>Latitude: 19.172898<br>Longitude: 72.835625<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Inorbit Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.172898</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.835625</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.835625,19.172898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Inorbit Mall<br>Latitude: 19.065509<br>Longitude: 73.001045<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Inorbit Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.065509</value>
+          </Data>
+          <Data name="Longitude">
+            <value>73.001045</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            73.001045,19.065509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: K Star Mall<br>Latitude: 19.052427<br>Longitude: 72.901666<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>K Star Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.052427</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.901666</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.901666,19.052427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Korum Mall<br>Latitude: 19.2032<br>Longitude: 72.965117<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Korum Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.2032</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.965117</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.965117,19.2032,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Lake City Mall<br>Latitude: 19.217153<br>Longitude: 72.979375<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Lake City Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.217153</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.979375</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.979375,19.217153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Link Square Mall<br>Latitude: 19.065344<br>Longitude: 72.834088<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Link Square Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.065344</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.834088</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.834088,19.065344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Little World Mall<br>Latitude: 19.049902<br>Longitude: 73.099487<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Little World Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.049902</value>
+          </Data>
+          <Data name="Longitude">
+            <value>73.099487</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            73.099487,19.049902,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Magnet Mall<br>Latitude: 19.141549<br>Longitude: 72.931501<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Magnet Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.141549</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.931501</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.931501,19.141549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Maxus Mall<br>Latitude: 19.295938<br>Longitude: 72.848666<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Maxus Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.295938</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.848666</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.848666,19.295938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Maxus Mall<br>Latitude: 19.093319<br>Longitude: 72.883757<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Maxus Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.093319</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.883757</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.883757,19.093319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Mega Mall<br>Latitude: 19.11213<br>Longitude: 72.860285<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Mega Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.11213</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.860285</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.860285,19.11213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Metro Junction Mall<br>Latitude: 19.229713<br>Longitude: 73.123222<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Metro Junction Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.229713</value>
+          </Data>
+          <Data name="Longitude">
+            <value>73.123222</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            73.123222,19.229713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Milan Mall<br>Latitude: 19.089479<br>Longitude: 72.839241<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Milan Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.089479</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.839241</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.839241,19.089479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Moksha Mall<br>Latitude: 19.113392<br>Longitude: 72.929883<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Moksha Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.113392</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.929883</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.929883,19.113392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Nakshatra Mall<br>Latitude: 19.019896<br>Longitude: 72.841317<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Nakshatra Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.019896</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.841317</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.841317,19.019896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Nirmal Lifestyle II Mall<br>Latitude: 19.16674<br>Longitude: 72.937321<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Nirmal Lifestyle II Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.16674</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.937321</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.937321,19.16674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Oberoi Mall<br>Latitude: 19.17389<br>Longitude: 72.860561<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Oberoi Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.17389</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.860561</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.860561,19.17389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Orchid City Center Mall<br>Latitude: 18.969463<br>Longitude: 72.816925<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Orchid City Center Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>18.969463</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.816925</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.816925,18.969463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Palladium Mall<br>Latitude: 18.994419<br>Longitude: 72.824923<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Palladium Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>18.994419</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.824923</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.824923,18.994419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Palm Beach Galleria<br>Latitude: 19.08529<br>Longitude: 73.00785<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Palm Beach Galleria</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.08529</value>
+          </Data>
+          <Data name="Longitude">
+            <value>73.00785</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            73.00785,19.08529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Prime Mall<br>Latitude: 19.107792<br>Longitude: 72.839568<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Prime Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.107792</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.839568</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.839568,19.107792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: R City<br>Latitude: 19.099978<br>Longitude: 72.91625<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>R City</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.099978</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.91625</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.91625,19.099978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Raghuleela Mall<br>Latitude: 19.06405<br>Longitude: 72.996915<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Raghuleela Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.06405</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.996915</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.996915,19.06405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Raguleela Mall<br>Latitude: 19.204989<br>Longitude: 72.836827<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Raguleela Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.204989</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.836827</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.836827,19.204989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Reliance Mart<br>Latitude: 19.218687<br>Longitude: 72.970309<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Reliance Mart</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.218687</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.970309</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.970309,19.218687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: R-Mall<br>Latitude: 19.184061<br>Longitude: 72.951606<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>R-Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.184061</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.951606</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.951606,19.184061,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: R-Mall-2<br>Latitude: 19.230183<br>Longitude: 72.97734<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>R-Mall-2</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.230183</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.97734</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.97734,19.230183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Sej Plaza Shopping Mall<br>Latitude: 19.18031<br>Longitude: 72.855409<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Sej Plaza Shopping Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.18031</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.855409</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.855409,19.18031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Sunrays Shopping Center<br>Latitude: 19.215958<br>Longitude: 72.828364<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Sunrays Shopping Center</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.215958</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.828364</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.828364,19.215958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Thakur Mall<br>Latitude: 19.20876<br>Longitude: 72.872468<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Thakur Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.20876</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.872468</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.872468,19.20876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: The Hub Mall<br>Latitude: 19.154821<br>Longitude: 72.856297<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>The Hub Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.154821</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.856297</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.856297,19.154821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: The Mall<br>Latitude: 19.187056<br>Longitude: 72.847577<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>The Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.187056</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.847577</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.847577,19.187056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Viva City Mall<br>Latitude: 19.208468<br>Longitude: 72.971264<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Viva City Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.208468</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.971264</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.971264,19.208468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Viviana Mall<br>Latitude: 19.208766<br>Longitude: 72.971527<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Viviana Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.208766</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.971527</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.971527,19.208766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Wonder Mall<br>Latitude: 19.221098<br>Longitude: 72.977174<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1684-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Wonder Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.221098</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.977174</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.977174,19.221098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shopping Center</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Peddar Road<br>Latitude: 18.97237<br>Longitude: 72.8088<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1685-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Peddar Road</value>
+          </Data>
+          <Data name="Latitude">
+            <value>18.97237</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.8088</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.8088,18.97237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shopping Center</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Warden Road<br>Latitude: 18.980974<br>Longitude: 72.809143<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1685-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Warden Road</value>
+          </Data>
+          <Data name="Latitude">
+            <value>18.980974</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.809143</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.809143,18.980974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shopping Center</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Crowford Market<br>Latitude: 18.947775<br>Longitude: 72.834592<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1685-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Crowford Market</value>
+          </Data>
+          <Data name="Latitude">
+            <value>18.947775</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.834592</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.834592,18.947775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shopping Center</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Fashion Street<br>Latitude: 18.93925<br>Longitude: 72.830172<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1685-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Fashion Street</value>
+          </Data>
+          <Data name="Latitude">
+            <value>18.93925</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.830172</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.830172,18.93925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shopping Center</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Phoenix Mills<br>Latitude: 19.00597<br>Longitude: 72.827682<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1685-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Phoenix Mills</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.00597</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.827682</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.827682,19.00597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shopping Center</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Parel Hindmata<br>Latitude: 19.011489<br>Longitude: 72.842617<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1685-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Parel Hindmata</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.011489</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.842617</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.842617,19.011489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shopping Center</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Dadar Plaza<br>Latitude: 19.022362<br>Longitude: 72.843797<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1685-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Dadar Plaza</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.022362</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.843797</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.843797,19.022362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shopping Center</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Dadar S.B.Marg<br>Latitude: 19.011245<br>Longitude: 72.843132<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1685-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Dadar S.B.Marg</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.011245</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.843132</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.843132,19.011245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shopping Center</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Bandra Hill Road<br>Latitude: 19.055364<br>Longitude: 72.83103<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1685-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Bandra Hill Road</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.055364</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.83103</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.83103,19.055364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shopping Center</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Linking Road<br>Latitude: 19.073799<br>Longitude: 72.833862<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1685-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Linking Road</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.073799</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.833862</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.833862,19.073799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shopping Center</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Andheri Link Road<br>Latitude: 19.110988<br>Longitude: 72.861478<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1685-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Andheri Link Road</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.110988</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.861478</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.861478,19.110988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shopping Center</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Malad Link Road<br>Latitude: 19.196993<br>Longitude: 72.82764<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1685-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Malad Link Road</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.196993</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.82764</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.82764,19.196993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shopping Center</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Andheri S.V.Road<br>Latitude: 19.108514<br>Longitude: 72.839699<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1685-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Andheri S.V.Road</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.108514</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.839699</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.839699,19.108514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shopping Center</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Dharavi<br>Latitude: 19.04573<br>Longitude: 72.85635<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1685-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Dharavi</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.04573</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.85635</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.85635,19.04573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shopping Center</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Chembur Station<br>Latitude: 19.066012<br>Longitude: 72.900467<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1685-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Chembur Station</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.066012</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.900467</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.900467,19.066012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shopping Center</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Vashi Sec.17<br>Latitude: 19.073556<br>Longitude: 73.000288<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1685-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Vashi Sec.17</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.073556</value>
+          </Data>
+          <Data name="Longitude">
+            <value>73.000288</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            73.000288,19.073556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shopping Center</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Thane Gokhale Road<br>Latitude: 19.187549<br>Longitude: 72.969496<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1685-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Thane Gokhale Road</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.187549</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.969496</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.969496,19.187549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shopping Center</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Thane Ram Maruti Road<br>Latitude: 19.192838<br>Longitude: 72.972221<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1685-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Thane Ram Maruti Road</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.192838</value>
+          </Data>
+          <Data name="Longitude">
+            <value>72.972221</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.972221,19.192838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shopping Center</name>
+        <description><![CDATA[Category Group: Mall<br>Address: Kalyan Metro Mall<br>Latitude: 19.229899<br>Longitude: 73.122962<br>State: Maharashtra<br>City: Mumbai]]></description>
+        <styleUrl>#icon-1685-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="Category Group">
+            <value>Mall</value>
+          </Data>
+          <Data name="Address">
+            <value>Kalyan Metro Mall</value>
+          </Data>
+          <Data name="Latitude">
+            <value>19.229899</value>
+          </Data>
+          <Data name="Longitude">
+            <value>73.122962</value>
+          </Data>
+          <Data name="State">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="City">
+            <value>Mumbai</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            73.122962,19.229899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Untitled layer</name>
+    </Folder>
+    <Folder>
+      <name>Untitled layer</name>
+    </Folder>
+  </Document>
+</kml>
